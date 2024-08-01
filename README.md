@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Jinan
 - 👀 I’m interested in Computer Networking and Security
-- 🌱 I’m currently learning Cisco SD-WAN and Network Automation
+- 🌱 I’m currently doing training in CCIE Security topics
 - 📫 Feel free to connect me on LinkedIn
 
   
