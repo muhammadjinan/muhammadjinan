@@ -1,0 +1,25 @@
+# ------------------------------------
+# General OS and Editor files
+# ------------------------------------
+.DS_Store          # Mac OS X
+Thumbs.db          # Windows
+*.swp              # Vim swap files
+*~                 # Vim backup files
+.vscode/           # Visual Studio Code settings
+.idea/             # JetBrains IDEs (e.g., WebStorm, PyCharm)
+
+# ------------------------------------
+# General Development Artifacts
+# ------------------------------------
+/node_modules      # Node.js/npm packages (if you add JavaScript dependencies later)
+/build             # Common folder for compiled files
+/dist              # Common folder for distribution files
+npm-debug.log* # Node.js debug logs
+yarn-error.log     # Yarn error logs
+
+# ------------------------------------
+# Project-Specific (Optional)
+# ------------------------------------
+# If you edit images, these might be created by your OS/editor
+# *.bak
+# *.tmp
