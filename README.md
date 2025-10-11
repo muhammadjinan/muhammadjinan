@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Jinan
 - 👀 Interested in Computer Networking and Security
-- 🌱 I’m currently working as a Technical Support Engineer
+- 🌱 I’m currently working as a Web Gateway Engineer
 - 📫 Feel free to connect me on LinkedIn
 
   
