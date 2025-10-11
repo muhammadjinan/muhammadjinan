@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammad Jinan
-- 👀 I’m interested in Computer Networking and Security
-- 🌱 I’m currently doing training in CCIE Security topics
+- 👀 Interested in Computer Networking and Security
+- 🌱 I’m currently working as a Technical Support Engineer
 - 📫 Feel free to connect me on LinkedIn
 
   
